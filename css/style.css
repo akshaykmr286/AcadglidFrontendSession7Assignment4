@@ -1,0 +1,53 @@
+
+/*
+styling the main div with some padding margin aand color
+*/
+/*#maindiv{
+    background-color: azure;
+    width: 500px;
+    height: 300px;
+    border: 2px solid orange;
+    padding: 10px;
+    margin: 10% 31% 10%;
+}*/
+/*
+styling the heading tags for notes
+*/
+h4,h5{
+    color: brown;
+}
+#anom{
+    
+    display:none;
+    width:50%;
+    height:200px;
+    background-color: black;
+    color:white;
+    font-family: fantasy;
+    font-size: 25px;
+}
+/*
+Styling the Form elemnts and divs
+*/
+form{
+    padding: 10px;
+}
+form div{
+    margin: 10px;
+}
+
+form input[id=email]{
+    margin-left: 4px;
+}
+form input[id=name]{
+    margin-left: 11px;
+}
+form input[id=age]{
+    margin-left: 25px;
+}
+form #helptext{
+    color:brown;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
